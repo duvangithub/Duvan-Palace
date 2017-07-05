@@ -1,10 +1,8 @@
 <html>
  <head>
-  <title>LAB PALACE</title>
+  <title>Prueba de PHP</title>
  </head>
  <body>
-
- <?php echo '<p>Hola Mundo</p>'; ?>
-
+ <p>Hola mundo</p>
  </body>
 </html>
